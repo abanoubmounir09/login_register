@@ -1,0 +1,6 @@
+framework module Pods_fire_JsON {
+  umbrella header "Pods-fire_JsON-umbrella.h"
+
+  export *
+  module * { export * }
+}
